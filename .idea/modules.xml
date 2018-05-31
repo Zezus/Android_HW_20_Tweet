@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HW_20_Tweet.iml" filepath="$PROJECT_DIR$/.idea/HW_20_Tweet.iml" />
+      <module fileurl="file://C:\AndroidProject\HW_20_Tweet\Hw20.iml" filepath="C:\AndroidProject\HW_20_Tweet\Hw20.iml" />
+      <module fileurl="file://C:\AndroidStudioProjects\Hw20\Twitter.iml" filepath="C:\AndroidStudioProjects\Hw20\Twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\AndroidStudioProjects\Hw20\app\app.iml" filepath="C:\AndroidStudioProjects\Hw20\app\app.iml" />
+      <module fileurl="file://C:\AndroidProject\HW_20_Tweet\app\app.iml" filepath="C:\AndroidProject\HW_20_Tweet\app\app.iml" />
+    </modules>
+  </component>
+</project>
